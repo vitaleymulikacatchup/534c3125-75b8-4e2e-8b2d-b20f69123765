@@ -3,9 +3,9 @@ import { SiteThemeProvider } from '@/components/sections/ThemeProvider';
 import NavbarBase from '@/components/navigation/NavbarBase';
 import BillboardHero from '@/components/sections/layouts/hero/BillboardHero';
 import SplitAbout from '@/components/sections/layouts/about/SplitAbout';
-import CarouselBase from '@/components/carousel/CarouselBase';
 import TextGridTokenomics from '@/components/sections/layouts/tokenomics/TextGridTokenomics';
 import FooterBase from '@/components/footer/FooterBase';
+import CarouselBase from '@/components/carousel/CarouselBase';
 
 export default function Home() {
   return (
